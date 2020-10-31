@@ -7,3 +7,44 @@
 body{
     font-family: 'Cormorant Garamond', serif;
 }
+
+.limpia_navbar{
+    background-color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.limpia_navbar div, .limpia_navbar ul{
+    background-color: transparent !important;
+}
+
+.limpia_cont_sec_1{
+    padding: 10%;
+}
+
+.limpia_cont_sec_1_link{
+    padding: 5%;
+}
+
+.limpia_cont_sec_1_link a{
+    width: 200px;
+}
+
+.limpia_cont_sec_1 hr{
+    border-top: 1px solid rgba(1, 1, 1, 0.3);
+}
+
+.limpia_cont_footer{
+    background-color: rgba(1, 1, 1, 0.7);
+    padding: 2%;
+    color: #fff;
+    margin-top: 100px;
+}
+
+.limpia_cont_footer a{
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
+
+.limpia_cont_img_footer{
+    padding: 1%;
+}

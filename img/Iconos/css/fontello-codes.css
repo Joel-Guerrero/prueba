@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+ 
+.icon-basket:before { content: '\e73d'; } /* '' */
+.icon-youtube-play:before { content: '\f16a'; } /* '' */
+.icon-twitter-squared:before { content: '\f304'; } /* '' */
+.icon-facebook-squared:before { content: '\f308'; } /* '' */
+.icon-linkedin-squared:before { content: '\f30c'; } /* '' */
+.icon-user:before { content: '👤'; } /* '\1f464' */
+.icon-credit-card:before { content: '💳'; } /* '\1f4b3' */
+.icon-truck:before { content: '🚚'; } /* '\1f69a' */

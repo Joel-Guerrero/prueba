@@ -80,3 +80,26 @@
     animation-fill-mode: forwards;
     animation-delay: 1s;
 }
+
+.limpia_cont_banner_sec_3{
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../img/Imagen20.jpg");
+    position: relative;
+    padding: 10%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.limpia_cont_banner_sec_3 .row{
+    background-color: rgba(1, 1, 1, 0.7);
+    color: #fff;
+    padding: 2%;
+}
+
+.limpia_cont_img{
+    padding: 5%;
+}
